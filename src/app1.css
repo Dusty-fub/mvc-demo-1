@@ -1,0 +1,15 @@
+.output {
+  display : flex;
+  justify-content : center;
+}
+
+.actions {
+  display : flex;
+  justify-content : center;
+}
+
+.actions button {
+  width : 5vw;
+  margin : 1vw;
+  padding : .5vh;
+}
